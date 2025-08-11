@@ -1,6 +1,6 @@
 # Página do Killua - Hunter x Hunter
 
-## 💡Sobre
+💡Sobre:
 
 Este repositório contém uma página web simples desenvolvida durante as aulas para praticar conceitos básicos de HTML e CSS. A página apresenta informações do personagem Killua, do anime Hunter x Hunter.
 
